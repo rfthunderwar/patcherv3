@@ -78,7 +78,6 @@ Chef\QG\SPT\[INDEX]\BackAura58033\aru_0.mst 8d8ced50141e73130b3003dccaa2a0b2441a
 Chef\QG\SPT\[INDEX]\BackAura58033\aru_02.dds 62197980b3d1ea31f9fb7c216e64d7231a99a6dc
 Chef\QG\SPT\[INDEX]\BackAura58033\MainMaterial.mst bdb33e7cbf0b35309436a1181b335f08185f308d
 Chef\QG\SPT\[INDEX]\BannerAdvertisement\EF.dds abe3e43667a068715f92b8b1506142562923d4fd
-Chef\QG\SPT\[INDEX]\BannerAdvertisement\EF.psd 5df1936a813a15e2e666a10ce214cdbd4e265682
 Chef\QG\SPT\[INDEX]\BannerAdvertisement\EF1.dds ebc62745e08d1a6536fc5d8bdf87e16293d80281
 Chef\QG\SPT\[INDEX]\BannerAdvertisement\EF13.dds a527093a41ff39b6e7d88caf6e7bcd68a8e31cfe
 Chef\QG\SPT\[INDEX]\BannerAdvertisement\EF2.dds 967315c26d78cde7ba5c957f30d51998b9f8d47e
@@ -100,7 +99,6 @@ Chef\QG\SPT\[INDEX]\ChestLogoAccretia\Mark.r3m da7569badafef0fea04d5ad1e5d2a4f07
 Chef\QG\SPT\[INDEX]\ChestLogoAccretia\Mark.r3t a821e46cd323e118f4c9f7ec18ab88538c3d8a51
 Chef\QG\SPT\[INDEX]\Circle\1_-_Default_0.mst eff100ad5dcf11b5e48aa395664662643c58d423
 Chef\QG\SPT\[INDEX]\Circle\aa.dds 2db5825a322dc2cb2c55956e59355d822f6b59e4
-Chef\QG\SPT\[INDEX]\Circle\aa.PSD 984108e286446e144d72cb454ee8cb50cbea50de
 Chef\QG\SPT\[INDEX]\Circle\aura.R3E 9c61363bc0b65fb2d0274f3bc6052a628751e4c9
 Chef\QG\SPT\[INDEX]\Circle\MainMaterial.mst 7c48931668f20afdc68a5c90c9f970161371f353
 Chef\QG\SPT\[INDEX]\Electric\a01.r3e f45a0cb359dc71ed73976b24dfedcf0e45b67a16
@@ -119,7 +117,6 @@ Chef\QG\SPT\[INDEX]\electricity_02\MainMaterial.mst d90d25218be60b81f0e26ed1f64f
 Chef\QG\SPT\[INDEX]\electricity_02\shield_01.R3E aa1f226d8f82647bab9ba2d888094fbe8fa6b729
 Chef\QG\SPT\[INDEX]\electricity_03\AAA_0.mst 16aa2b3834c5f7cda40b02106bec30e1a0c2a8c4
 Chef\QG\SPT\[INDEX]\electricity_03\bd4c34d8_01.dds e99aba93a7d2b3bf9179a493d5d6c6f966fd20c2
-Chef\QG\SPT\[INDEX]\electricity_03\bd4c34d8_01.psd 6542cfa519bcd786468899050fee7c7e02471a94
 Chef\QG\SPT\[INDEX]\electricity_03\MainMaterial.mst d90d25218be60b81f0e26ed1f64f2e60e1a29047
 Chef\QG\SPT\[INDEX]\electricity_03\shield_01.R3E aa1f226d8f82647bab9ba2d888094fbe8fa6b729
 Chef\QG\SPT\[INDEX]\electricity_04\AAA_0.mst 16aa2b3834c5f7cda40b02106bec30e1a0c2a8c4
@@ -128,7 +125,6 @@ Chef\QG\SPT\[INDEX]\electricity_04\MainMaterial.mst d90d25218be60b81f0e26ed1f64f
 Chef\QG\SPT\[INDEX]\electricity_04\shield_01.R3E aa1f226d8f82647bab9ba2d888094fbe8fa6b729
 Chef\QG\SPT\[INDEX]\electricity_05\AAA_0.mst 16aa2b3834c5f7cda40b02106bec30e1a0c2a8c4
 Chef\QG\SPT\[INDEX]\electricity_05\bd4c34d8_01.dds ce7039d0e43ca6e5233cad79e502a3e3c2ee8d2f
-Chef\QG\SPT\[INDEX]\electricity_05\bd4c34d8_01.psd fb95d1475b647c105914bccf9cd5dfe4be9238a1
 Chef\QG\SPT\[INDEX]\electricity_05\MainMaterial.mst d90d25218be60b81f0e26ed1f64f2e60e1a29047
 Chef\QG\SPT\[INDEX]\electricity_05\shield_01.R3E aa1f226d8f82647bab9ba2d888094fbe8fa6b729
 Chef\QG\SPT\[INDEX]\Electric_Knife\AAA_0.mst 16aa2b3834c5f7cda40b02106bec30e1a0c2a8c4
@@ -165,22 +161,18 @@ Chef\QG\SPT\[INDEX]\LineUp\recall01.r3e f8cba3dcd5c0b6fcda707eb90ef4e82d4541db4a
 Chef\QG\SPT\[INDEX]\LineUp\recall01.r3m 55297cfed9aeac36caf060d593e0380a31073838
 Chef\QG\SPT\[INDEX]\LineUp\recall01.r3t d22f5b75639999810c7adc7a58b36499910d240b
 Chef\QG\SPT\[INDEX]\LogoA\EF.dds ebc62745e08d1a6536fc5d8bdf87e16293d80281
-Chef\QG\SPT\[INDEX]\LogoA\EF.psd 517863614aa05f956b680e7cf7bc28bcaad06c76
 Chef\QG\SPT\[INDEX]\LogoA\FA_0.mst b196ae57c8ba065d5805e83bda2dbfcc75c0713e
 Chef\QG\SPT\[INDEX]\LogoA\MainMaterial.mst 2b7e780f38a1d0713fe25bbf09cfc67a00e5dbb5
 Chef\QG\SPT\[INDEX]\LogoA\Monarch.R3E 9c61363bc0b65fb2d0274f3bc6052a628751e4c9
 Chef\QG\SPT\[INDEX]\LogoB\EF.dds 38c4863f9b886fe9d087078cbdf9391f3fff0a02
-Chef\QG\SPT\[INDEX]\LogoB\EF.psd 90e9db9554bb2c57f7d1d702e6b59a9e397758f3
 Chef\QG\SPT\[INDEX]\LogoB\FA_0.mst b196ae57c8ba065d5805e83bda2dbfcc75c0713e
 Chef\QG\SPT\[INDEX]\LogoB\MainMaterial.mst 2b7e780f38a1d0713fe25bbf09cfc67a00e5dbb5
 Chef\QG\SPT\[INDEX]\LogoB\Monarch.R3E 9c61363bc0b65fb2d0274f3bc6052a628751e4c9
 Chef\QG\SPT\[INDEX]\LogoC\EF.dds 634f0767ea68d71e29c102120254e08ecb0d3f44
-Chef\QG\SPT\[INDEX]\LogoC\EF.psd e1e533dc1f49a2b8eea11392265a9d8d64aa9f1b
 Chef\QG\SPT\[INDEX]\LogoC\FA_0.mst b196ae57c8ba065d5805e83bda2dbfcc75c0713e
 Chef\QG\SPT\[INDEX]\LogoC\MainMaterial.mst 2b7e780f38a1d0713fe25bbf09cfc67a00e5dbb5
 Chef\QG\SPT\[INDEX]\LogoC\Monarch.R3E 9c61363bc0b65fb2d0274f3bc6052a628751e4c9
 Chef\QG\SPT\[INDEX]\LogoStreamer\EF.dds 2edecb3b707580c9a8a01b9e3d4d3aa671f28801
-Chef\QG\SPT\[INDEX]\LogoStreamer\EF.psd 9a634d9e5e1534a084671340c33c0394ee79af9a
 Chef\QG\SPT\[INDEX]\LogoStreamer\FA_0.mst b196ae57c8ba065d5805e83bda2dbfcc75c0713e
 Chef\QG\SPT\[INDEX]\LogoStreamer\MainMaterial.mst 2b7e780f38a1d0713fe25bbf09cfc67a00e5dbb5
 Chef\QG\SPT\[INDEX]\LogoStreamer\Monarch.R3E 9c61363bc0b65fb2d0274f3bc6052a628751e4c9
@@ -195,11 +187,9 @@ Chef\QG\SPT\[INDEX]\MOB_GLOW\aa.dds 513f5db46e534e0dc1ca2e93f62eeb2a75e6cf41
 Chef\QG\SPT\[INDEX]\MOB_GLOW\aura.R3E 9c61363bc0b65fb2d0274f3bc6052a628751e4c9
 Chef\QG\SPT\[INDEX]\MOB_GLOW\MainMaterial.mst 62e45adb318eb20a77d90335d54674b9494a950a
 Chef\QG\SPT\[INDEX]\QRCODE\EF.dds a8f5522d94a72da0620c7d5bb81962ee0672f5b3
-Chef\QG\SPT\[INDEX]\QRCODE\EF.psd 43be2256aec014e1de68f72b71fa5a6d228dd5ae
 Chef\QG\SPT\[INDEX]\QRCODE\FA_0.mst b196ae57c8ba065d5805e83bda2dbfcc75c0713e
 Chef\QG\SPT\[INDEX]\QRCODE\MainMaterial.mst 2b7e780f38a1d0713fe25bbf09cfc67a00e5dbb5
 Chef\QG\SPT\[INDEX]\QRCODE\Monarch.R3E 9c61363bc0b65fb2d0274f3bc6052a628751e4c9
-Chef\QG\SPT\[INDEX]\QRCODE\QR QG-2.psd c75589907016060f27de317beee7e4f1dea3fd4c
 Chef\QG\SPT\[INDEX]\rise_smoke_01\1_16frame.dds 1429ada0bf7e409b340d842b306efba26d49ed78
 Chef\QG\SPT\[INDEX]\rise_smoke_01\1_64frame.dds 2ce16de512f64ce15b3674dc49031b35edadaf29
 Chef\QG\SPT\[INDEX]\rise_smoke_01\Default_01_0.mst 5c76992d772e1f035e1b632f956c61381e467a33
