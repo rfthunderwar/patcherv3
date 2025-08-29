@@ -395,7 +395,7 @@ DataTable\en-gb\KeyMap.dat 207cc7f81403838148ed44e9d3f74eb8701c79b9
 DataTable\en-gb\KeyMap_NKM.dat 18c780fd38a8c2b55df964bc3a9bfbd68dd5e245
 DataTable\en-gb\NDCharacter.edf 1d842dccbc8bb9ff6eb1f9680ec99e428a3861dd
 DataTable\en-gb\NDEventShip.edf 125d8d32cfabd9d8af001a336b2be889582e9228
-DataTable\en-gb\NDItem.edf 178b89071fe47349f16eb5f12c4d27dbb18d9a1d
+DataTable\en-gb\NDItem.edf 17db639142bc06ddfb0bcafde5faec62cdb18d78
 DataTable\en-gb\NDItemCash.edf 231cca74e39d4f2fd906144ed12683c1757c902c
 DataTable\en-gb\NDLanguage.edf 9bd26b0f38607b81a60b8fc3141ceec25c1baf9d
 DataTable\en-gb\NDMap.edf 282543dd8048bdc73891ce4712dfb5be8a488bd4
@@ -407,7 +407,7 @@ DataTable\en-gb\NDStore.edf 625d0255b42823cfc736f4defa7cb76d1130784c
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\EventShip.edf 0947e06e35207ac07addb7c6260187934390e13f
 DataTable\font.ini 550a621eca4daa747445d05150cd01e0f50250ce
-DataTable\Item.edf 12361188c0ea624470bfe619c37f56db4f5063b2
+DataTable\Item.edf 56f696d8501eb94bb4b323fa127fac57d350bf11
 DataTable\ItemCash.edf ab8676599178d4c9fa8c082ff66231995691d2fd
 DataTable\ItemCombine.edf 44b9c31e97f7be38b0e2e84683dca45288fd7b09
 DataTable\ItemPremium.edf 8efd013171b46ea5b8801a7a053349bb1c3f89e0
@@ -441,7 +441,7 @@ Map\Platform01\Sky\Platform01Sky.mtf b4f9d3404e66f05fb260ca73ff0a0b6f0c61fdc7
 Map\Platform01\Sky\Platform01Sky.r3t b611f495991684539c6a3bd83fc749116e4ef9ce
 Map\Platform01\Sky2\Platform01sky2.mtf d680b37e07098aa76590cc161da4b9594b73a26d
 Map\Platform01\Sky2\Platform01sky2.r3t 319316af995717797054da4f60dffc23ca168596
-RF_Online.bin aa8ac45e0b2a6d10f70f30ab55c1ca505ab13d20
+RF_Online.bin 20189805a8aff83fd69145c68d07058a9287f986
 Snd\Bgm\ccrinc.AVI 0e356ba505631fbf715758bed27d503f8b260e3a
 Snd\Bgm\CCRINC.wmv 9b99593353a610c4bee0d6a94a01a3296080c0fb
 Snd\Bgm\Prologue.avi 688934845f22049cb14668832efa33d45013b6b9
